@@ -1,0 +1,6 @@
+---
+role_jellyseerr_image: 'docker.io/fallenbagel/jellyseerr'
+role_jellyseerr_container: 'jellyseerr'
+role_jellyseerr_tz: 'Europe/Zurich'
+role_jellyseerr_volume: 'jellyseerr'
+role_jellyseerr_network: 'app-network'
